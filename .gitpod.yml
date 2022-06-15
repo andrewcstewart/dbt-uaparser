@@ -1,0 +1,6 @@
+tasks:
+  - init: |
+      pip install changelog-cli
+      pip install dbt-core
+    command: |
+      echo 'TODO: start app'
